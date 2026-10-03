@@ -1,3 +1,22 @@
+## About This Project
+
+This repository is a fork of our undergraduate capstone project at  
+Tamkang University, Department of Computer Science and Information Engineering.
+
+**Project:** VoI-Driven Transport Selection for Heterogeneous LoRa/Wi-Fi IoT with Unified MQTT Abstraction
+
+### My Contributions
+
+My primary contributions focused on:
+
+- Water-level data preprocessing and semantic state design
+- Four-state water-level inference: Stable, Rising, Flood, and Receding
+- Teacher model and lightweight student model development
+- Edge AI model integration and deployment-related work
+- Integration of semantic inference with the adaptive transmission decision pipeline
+
+**Original Team Repository:**  
+https://github.com/HungPage/VoI-Driven-Transport-Selection-for-Heterogeneous-LoRa-Wi-Fi-IoT-with-Unified-MQTT-Abstraction
 # VoI-Driven Adaptive Transport for Heterogeneous LoRa/Wi-Fi Flood Monitoring
 
 Semantic-aware water level monitoring using on-device AI and adaptive LoRa/Wi-Fi transport selection on Raspberry Pi Pico 2W (264 KB SRAM).
